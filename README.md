@@ -1,17 +1,16 @@
 # pixabay_gallery
 
-A new Flutter project.
+This repository contains a new Flutter project called "pixabay_demo_gallery". 
 
-## Getting Started
+The project is a starting point for a Flutter application that utilizes the Pixabay API to display a gallery of images.
 
-This project is a starting point for a Flutter application.
+# Main Function Points
+Displays a gallery of images from the Pixabay API
+Allows users to search for images based on keywords
+Provides a user-friendly interface for browsing and interacting with the image gallery
 
-A few resources to get you started if this is your first Flutter project:
+# Technology Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pixabay_demo_gallery
+Flutter: A cross-platform mobile application development framework
+Dart: The programming language used for developing Flutter applications
+Pixabay API: A free image and video sharing platform that provides an API for accessing its content
